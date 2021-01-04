@@ -1,0 +1,25 @@
+{
+  "name": "medium-webscraper",
+  "version": "1.0.0",
+  "description": "pull data to find optimal medium article structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joekinney-png/medium-webscraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joekinney-png/medium-webscraper/issues"
+  },
+  "homepage": "https://github.com/joekinney-png/medium-webscraper#readme",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^3.0.0",
+    "puppeteer": "^5.5.0"
+  }
+}
