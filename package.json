@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/joekinney-png/medium-webscraper/issues"
   },
-  "homepage": "https://github.com/joekinney-png/medium-webscraper#readme"
+  "homepage": "https://github.com/joekinney-png/medium-webscraper#readme",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^3.0.0",
+    "puppeteer": "^5.5.0"
+  }
 }
